@@ -30,3 +30,7 @@ django-admin startproject setup .
 python manage.py runserver
 ```
 
+- Criar um novo app
+```
+python manage.py startapp nome-do-app
+```
